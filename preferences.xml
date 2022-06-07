@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
-  <любимый__EA__фильм>Зеленая миля</любимый__EA__фильм>
-  <любимый__EA__сериал>Шерлок</любимый__EA__сериал>
-  <любимая__EA__еда>мясо</любимая__EA__еда>
-  <любимое__EA__время__EA__года>лето</любимое__EA__время__EA__года>
-  <страна__FQ____EA__которую__EA__хочу__EA__посетить>Италия</страна__FQ____EA__которую__EA__хочу__EA__посетить>
+  <FavouriteFilm>Зеленая миля</FavouriteFilm>
+  <FavouriteSeries>Шерлок</FavouriteSeries>
+  <FavouriteFood>мясо</FavouriteFood>
+  <FavouriteSeason>лето</FavouriteSeason>
+  <CountryForNextVisit>Италия</CountryForNextVisit>
 </root>
